@@ -1,0 +1,42 @@
+{
+  "voicelines.alastor.hurt_anyone": {
+    "sounds": [
+      {
+        "name": "creatorscrucible:voicelines/alastor/hurt_anyone",
+        "stream": false
+      }
+    ]
+  },
+  "voicelines.alastor.end_you": {
+    "sounds": [
+      {
+        "name": "creatorscrucible:voicelines/alastor/end_you",
+        "stream": false
+      }
+    ]
+  },
+  "voicelines.alastor.elaborate": {
+    "sounds": [
+      {
+        "name": "creatorscrucible:voicelines/alastor/elaborate",
+        "stream": false
+      }
+    ]
+  },
+  "voicelines.alastor.heart_not_bones": {
+    "sounds": [
+      {
+        "name": "creatorscrucible:voicelines/alastor/heart_not_bones",
+        "stream": false
+      }
+    ]
+  },
+  "voicelines.alastor.threats": {
+    "sounds": [
+      {
+        "name": "creatorscrucible:voicelines/alastor/threats",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -903,6 +903,21 @@
         "stream": true
       }
     ]
+  },
+  "music_disc_caramelldansen_english": {
+    "sounds": [
+      {
+        "name": "morediscs:records/music_disc_caramelldansen_english",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc_caramelldansen_japanese": {
+    "sounds": [
+      {
+        "name": "morediscs:records/music_disc_caramelldansen_japanese",
+        "stream": true
+      }
+    ]
   }
-
 }
